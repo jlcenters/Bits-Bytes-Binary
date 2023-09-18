@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MAGIC
+  - INT
+  - CHA
+  - FLY
+  - INVISIBLE
+  - ANTIMAG
+  - REMOVE
+  - ADD
+  - CLEAR
+  - MAGIC_DOOR
   layers:
   - Default
   - TransparentFX
@@ -14,9 +24,9 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Sphere
+  - Cube
+  - Capsule
   - 
   - 
   - 
